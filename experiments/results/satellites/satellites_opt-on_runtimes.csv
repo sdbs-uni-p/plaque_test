@@ -1,0 +1,6 @@
+experiment,monte carlo,rows,runtime
+satellites_opt-on_optimizations-on_rows_2,0,2,99
+satellites_opt-on_optimizations-on_rows_4,0,4,355
+satellites_opt-on_optimizations-on_rows_5,0,5,25221186
+satellites_opt-on_optimizations-on_rows_3,0,3,320
+satellites_opt-on_optimizations-on_rows_1,0,1,97

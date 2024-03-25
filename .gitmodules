@@ -1,0 +1,3 @@
+[submodule "relational_information_content"]
+	path = relational_information_content
+	url = https://github.com/sdbs-uni-p/relational_information_content.git
